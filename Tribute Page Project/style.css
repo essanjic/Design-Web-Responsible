@@ -32,6 +32,8 @@ img {
     max-width: 100%;
     height: auto;
     margin: auto;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px rgba(165, 173, 196, 0.464);
 }
 
 #img-div {
